@@ -52,8 +52,7 @@ try:
 
 except Exception as ex:
 
-    pass
+   
 
-finally:
 
-    print_data(total)
+ 
